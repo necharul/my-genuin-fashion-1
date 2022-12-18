@@ -55,7 +55,7 @@ header{
     font-family: 'Bebas Neue', cursive;
     color: #363958;
 }
-.ftr-lft-txt-content1 h5{
+.ftr-lft-txt-content1 h5, .subscride-title h5{
     color: #363958;
 }
 .float-right{
@@ -64,3 +64,18 @@ header{
 .float-left{
     float: left;
 }
+.footer-bottom-bg{
+    background-image: url(img/logo-icon/footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.subscride-title>h5{
+    font-family: 'Bebas Neue', cursive;
+}
+.footer-btm-left>h5{
+    font-family: 'Bebas Neue', cursive;
+}
+/* .socail-btn i{
+    cursor: pointer;
+} */
